@@ -1,5 +1,5 @@
 import numpy
 
-y = numpy.zeros((4,4))
+y = numpy.zeros((3,4))
 
 print(y)
